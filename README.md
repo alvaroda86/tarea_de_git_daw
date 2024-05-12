@@ -1,4 +1,7 @@
 # Curso de GIT - 2024
+
+# Curso de GIT, Mayo, 2024
+
 # Autor: Alvaro Duran Amador
 
 Este proyecto contiene el curso de introducción a GIT
