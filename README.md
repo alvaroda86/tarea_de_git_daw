@@ -1,6 +1,6 @@
-# Curso de GIT - 2024
+# Curso de GIT - 
 
-# Curso de GIT, Mayo, 2024
+# Curso de GIT, Mayo, 
 
 # Autor: Alvaro Duran Amador
 
